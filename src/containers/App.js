@@ -3,7 +3,6 @@ import "./App.css";
 import CardList from "../components/CardList.js";
 import Scroll from "../components/Scroll.js";
 import SearchBox from "../components/SearchBox.js";
-import ErrorBoundry from "../components/ErrorBoundry.js";
 
 class App extends Component {
   constructor() {
